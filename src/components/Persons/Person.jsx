@@ -28,9 +28,9 @@ const Person = ({ persons }) => {
     <span>
       Tu nombre es: {persons.name}
       <br />
-      Tu apellido es: {persons.age}
+      Tu apellido es: {persons.surname}
       <br />
-      Tu edad es: {persons.surname}
+      Tu edad es: {persons.age}
       <br />
     </span>
   );
